@@ -1,0 +1,25 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores y carpetas de configuracion
+.vscode/
+.idea/
+*.swp
+
+# Compilados de C++ (el ejecutable que genera g++)
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+
+# Documentos que NO van al repo (el PDF de la consigna, etc.)
+*.pdf
+!docs/*.pdf
+
+# Temporales
+*.tmp
+*.log
+*.bak
